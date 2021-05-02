@@ -1,7 +1,7 @@
 # Practicas-Introducción-Sistemas-Inteligentes
 
 <p align="center">
-  <img width="300" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png">
+  <img width="auto" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png">
 </p>
 
 
