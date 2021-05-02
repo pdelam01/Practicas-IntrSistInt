@@ -1,7 +1,7 @@
 # Practicas-Introducción-Sistemas-Inteligentes
 
 <p align="center">
-  <img width="auto" height="auto" src="https://logos-marcas.com/wp-content/uploads/2020/12/MATLAB-Emblema.png">
+  <img width="300" height="300" src="https://logos-marcas.com/wp-content/uploads/2020/12/MATLAB-Emblema.png">
 </p>
 
 
